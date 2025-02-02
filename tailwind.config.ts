@@ -45,9 +45,6 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        primary: "var(--primary-color)",
-        secondary: "var(--secondary-color)",
-        accent: "var(--accent-color)",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
