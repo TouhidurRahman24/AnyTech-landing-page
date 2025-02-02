@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #0055ff;
+  --secondary-color: #00a3ff;
+  --accent-color: #ff6b00;
+}
+
+body {
+  @apply antialiased;
+}
+
